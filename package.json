@@ -1,0 +1,8 @@
+{
+  "name": "microfrontendeample",
+  "version": "1.0.0",
+  "description": "the simplest micro frontend example",
+  "main": "index.js",
+  "author": "Guy Nesher",
+  "license": "MIT"
+}
